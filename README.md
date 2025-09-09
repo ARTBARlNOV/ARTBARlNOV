@@ -1,3 +1,5 @@
 Hi, my name is Artem Barinov, i'm fullstack JS/TS developer with 3.9+ exp.
 
-Technology stack: · Typescript · React · Next.js · GraphQL · Apollo · Redux · Redux-saga · Redux-thunk · MobX · Jest · Storybook · LOKI · React-testing library · CRACO · Webpack · Babel· Eslint · AJAX · Node.js · Express · Sessions · PostgreSQL · Sequelize ORM · SQL · HTML · CSS · SCSS · Styled Components · Linaria · Bootstrap · Material UI · Git · GitHub · Gitlab · JIRA · NOTION · FIGMA.
+Technology stack: JavaScript · TypeScript · React · Next.js · MobX · Redux · Zustand · React Query · Ant Design · ShadCN · Storybook · Eslint · HTML · CSS · SCSS · Styled-components · Linaria · Material UI · Tailwind · Bootstrap · Webpack · Vite · Babel · Node.js · Express · Sessions · PostgreSQL · Git · GitHub · Gitlab
+
+
